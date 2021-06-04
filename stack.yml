@@ -1,5 +1,6 @@
 name: cloud-mysql
 title: Cloud MySQL
+icon: mysql
 
 services:
 - name: cloud-mysql
