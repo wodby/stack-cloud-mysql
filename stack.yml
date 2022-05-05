@@ -1,11 +1,11 @@
-name: cloud-mysql
+name: mysql-cloud
 title: Cloud MySQL
 icon: mysql
 
 services:
-- name: cloud-mysql
+- name: mysql
   title: Cloud MySQL
-  service: cloud-mysql
+  service: mysql-cloud
   options: 
   - version: '5.5'
   - version: '5.6'
