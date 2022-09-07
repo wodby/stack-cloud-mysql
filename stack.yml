@@ -1,8 +1,8 @@
-name: mysql-cloud
+name: cloud-mysql
 title: Cloud MySQL
 icon: mysql
 
 services:
 - name: mysql
   title: Cloud MySQL
-  service: mysql-cloud
+  service: cloud-mysql
