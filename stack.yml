@@ -1,6 +1,7 @@
 name: cloud-mysql
 title: Cloud MySQL
 icon: mysql
+docs: https://wodby.com/docs/2.0/stacks/catalog/cloud-mysql/
 
 services:
 - name: mysql
